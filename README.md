@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1><strong>H I <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></strong></h1>
+<h3><strong>Nice to meet you!</strong></h3>
+<br>
+<br>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=85&duration=3500&pause=1250&center=true&vCenter=true&width=1080&height=100&color=e86eb6&lines=I'm+Karina+Pospos;I'm+a+Full+Stack+Developer;best+things+happen+when+you+least+expect+it" alt="Typing SVG" /> </p>
 
-<!--
-**Kary1661/Kary1661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/karina-pospos-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<br>
 
-Here are some ideas to get you started:
+<h3 align="left">🛠 Tools that I use</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,materialUI,nodejs" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,PostgreSQL,JEST" />
+  </a>
+</p>
+<br>
+
+<h3 align="left">👩‍💻  I’m currently learning</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,mongodb,sequelize,ruby" />
+  </a>
+</p>
+<br>
+
+<h3 align="left">🤓 I am interested to learn</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,gatsby,ts,svelte,nestjs,py,docker" />
+  </a>
+</p>
+<br>
+<br>
