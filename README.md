@@ -3,9 +3,9 @@
 <br>
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=85&duration=3500&pause=1250&center=true&vCenter=true&width=1080&height=100&color=e86eb6&lines=I'm+Karina+Pospos;I'm+a+Full+Stack+Developer;Best+things+happen
-  <br>
-  when+you+least+expect+it;" alt="Typing SVG" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=85&duration=3500&pause=1250&center=true&vCenter=true&width=1080&height=100&color=e86eb6&lines=I'm+Karina+Pospos;I'm+a+Full+Stack+Developer;Best+things+happen;" alt="Typing SVG" /> </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=85&duration=3500&pause=1250&center=true&vCenter=true&width=1080&height=100&color=e86eb6&lines=when+you+least+expect+it;" alt="Typing SVG" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/karina-pospos-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
